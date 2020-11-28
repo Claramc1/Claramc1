@@ -6,9 +6,9 @@
 
 - 💻 Junior Front-End developper, loving my career shift towards IT
 - 🎨 Photographer and designer on my free time
-- :pencil: Became remote freelancer translator & Data Search for two years, to travel along North & South America
 - 🗻 Geologist with GIS and hazards geology experience.
-- 👯 I’m looking to collaborate on ...
+- :pencil: Became remote freelancer translator & Data Search for two years, to travel along North & South America
+
 
 
 ### Languages and Tools:
