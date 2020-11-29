@@ -5,9 +5,9 @@
 
 
 - 💻 Junior Front-End developper, loving my career shift towards IT
+- 🗻 Geologist with GIS experience on my previous life.
 - 🎨 Photographer and designer on my free time
-- 🗻 Geologist with GIS and hazards geology experience on my previous life.
-- :pencil: Became remote freelancer translator & Data Search for some months, to travel along North & South America
+- :pencil: Became remote freelancer translator & Data Search for some months, to travel along North & South America.
 
 
 
